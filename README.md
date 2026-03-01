@@ -17,23 +17,28 @@ Se trabajó sobre un layout en blanco (probablemente un ConstraintLayout o Linea
 La maqueta sirvió como guía visual antes del diseño final.
 
 
-ImageView: (layout_width 325dp y layout_height 206dp): 
+## ImageView .
+(layout_width 325dp y layout_height 206dp): 
 
 <img width="274" height="178" alt="image" src="https://github.com/user-attachments/assets/1d5244eb-4ff5-42ce-bfeb-96c8de4d50af" />
 
-TextView: (text color rojo, text size 50sp y centrado ) y (text color negro text size 34sp y centrado )
+## TextView :
+(text color rojo, text size 50sp y centrado ) y (text color negro text size 34sp y centrado )
 
 <img width="193" height="133" alt="image" src="https://github.com/user-attachments/assets/a067861d-d761-434e-b243-892ac215b139" />
 
-Edit text [Input] : (textSize 20sp, hint )
+## Plain text [Input] : 
+(textSize 20sp, hint y centrad0)
 
 <img width="164" height="50" alt="image" src="https://github.com/user-attachments/assets/a7a4c89d-628c-487a-aa25-9810199ba37d" />
 
-ProgressBar : (indeterminateTint color #009688 y centrado )
+## ProgressBar : 
+(indeterminateTint color #009688 y centrado )
 
 <img width="73" height="63" alt="image" src="https://github.com/user-attachments/assets/863d3b4f-2e85-471b-a29f-3c5e4785b594" />
 
-Button: (textColor blanco y background Tint verde, textSize 20sp) (textColor blanco y background Tint morado, textSize 18sp)
+## Button: 
+(textColor blanco y background Tint verde, textSize 20sp) (textColor blanco y background Tint morado, textSize 18sp)
 
 <img width="146" height="124" alt="image" src="https://github.com/user-attachments/assets/c44ab41a-7aee-4d12-9978-5eb290e75516" />
 
